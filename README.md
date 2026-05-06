@@ -51,7 +51,7 @@ Bienvenidos a mi portafolio! Aqui tengo enlistados todos mis proyectos en base a
 | Project Link | Area | Project Description | Libraries | Completion Date |   
 |---|---|---|---|---|
 | <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/399bb9cd-d8b0-4af3-958a-38d8987c164d" /> [Colombia's Economy](https://github.com/manualemartinez/Empresas_FTA_Colombia) | Data Visualization, Economics | Created as a course project for Earth Programming (Earth 133) at UM. Contains multiple graphs showing changes across time in the Colombian economy, with visuals added to show when an important FTA came into effect in the country. Created using data sourced from the World Bank, IMF, Colombian Central Bank, UN, etc. | pandas, numpy matplotlib, statistics, datetime, xlrd | March 2024 - April 2024 | 
-| 🏈 [Sleeper App Fantasy Football League Data](Arreglar Link) | Data Visualization, Fantasy Football | Leisure project. Downloads yearly transaction data for my fantasy football league from Sleeper's API to review decision-making process throughout the season. | pandas, numpy, ast, sleeper.api | December 2024 - | 
+| 🏈 [Sleeper App Fantasy Football League Data](https://github.com/manualemartinez/FF-from-API) | Data Visualization, Fantasy Football | Leisure project. Downloads yearly transaction data for my fantasy football league from Sleeper's API to review decision-making process throughout the season. | pandas, numpy, ast, sleeper.api | December 2024 - | 
 
 ***
 
