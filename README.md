@@ -1,6 +1,6 @@
 # Manuel's Portfolio
 
-Welcome to my data portfolio! Here, I document all of my projects based on their research topic or language/tool used.
+Welcome to my portfolio! Here, I document all of my projects based on their research topic or language/tool used.
 
 Bienvenidos a mi portafolio! Aqui tengo enlistados todos mis proyectos en base al tema de investigación o herramienta utilizada.
 
@@ -10,15 +10,14 @@ Bienvenidos a mi portafolio! Aqui tengo enlistados todos mis proyectos en base a
 - [Security](#security)
 - [History](#history)
 - [Python](#python)
-- [ArcGIS](#arcGIS)
-- [Podcast](#Podcast)
+- [ArcGIS](#arcgis)
 ***
 
 # Gentrification
 
 | Project Link | Area of Analysis | Project Description | Completion Date | 
 |---|---|---|---|
-| 👨‍👩‍👦 [Gentrification in the Costa Rican South Caribbean](Arreglar Link) | Localities of Hone Creek, Cahuita, and Puerto Viejo in Talamanca County, Costa Rica | Conducted 60+ interviews on affordability with residents of the South Caribbean towns of Hone Creek, Cahuita, and Puerto Viejo in Talamanca County, Costa Rica. Collaborated with local advocates to learn about threats to the cost of living in their communities. Developed quantitative and qualitative descriptions and completed final research paper under the guidance of PICS Coordinator of Independent Education Dr. Anthony Marcum. | February 2025 - December 2025 | 
+| 👨‍👩‍👦 [Gentrification in the Costa Rican South Caribbean](Arreglar Link) | Data Analysis, Economics, Environmentalism, Forced Displacement, History, Interviews | Conducted 60+ interviews on affordability with residents of the South Caribbean towns of Hone Creek, Cahuita, and Puerto Viejo in Talamanca County, Costa Rica. Collaborated with local advocates to learn about threats to the cost of living in their communities. Developed quantitative and qualitative descriptions and completed final research paper under the guidance of PICS Coordinator of Independent Education Dr. Anthony Marcum. | February 2025 - December 2025 | 
 
 ***
 
@@ -34,7 +33,16 @@ Bienvenidos a mi portafolio! Aqui tengo enlistados todos mis proyectos en base a
 
 | Project Link | Area of Analysis | Project Description | Completion Date |
 |---|---|---|---|
-| [Multidimensional Security Analysis of the Autonomous Region of Bougainville (ARB)](Arreglar Link) | Diplomacy, Economics, Healthcare, History, Independence, International Relations | Created as a course project for Security in Theory and Practice (INTLSTD 301). This paper analyses a | September 2025 - December 2025 |
+| <img width="45" height="30" alt="image" src="https://github.com/user-attachments/assets/3eea0eca-7a1d-4c5f-a23a-add7c986b0a7" /> [Multidimensional Security Analysis of the Autonomous Region of Bougainville (ARB)](Arreglar Link) | Diplomacy, Economics, Healthcare, History, Independence, International Relations | Created as a course project for Security in Theory and Practice (INTLSTD 301). This paper advises the United Nations Security Council after a hypothetical situation where independence talks between the government of Papua New Guinea and the administration of Bougainville break down due to threats from both sides. Establishes the objectives that the proposed peacekeeping mission should pursue to ensure violence does not erupt again in the region, citing real and hypothetical sources for the case. | May 2025 - June 2025 |
+
+***
+
+# History
+
+| Project Link | Area of Analysis | Project Description | Completion Date |
+|---|---|---|---|
+| 📉 [_Anti-liberacionismo_ Populist Movement (1978-1982)](Arreglar Link) | Economics, Elections, History, International Relations, Populism | Created as a course project for Sociology of Latin America (SOC 422). This paper covers the rise and fall from power of Rodrigo Carazo Odio, the 38th President of Costa Rica. His use of Populist messaging attacking the National Liberation Party (Partido Liberacion Nacional, PLN) played a key role in his initial victory, as well as his coalition's eventual breakdown when results did not materialize. | September 2025 - December 2025 |
+| 🍌 [Issues of the Banana Industry in the United States and Colombia (Links to Spotify)](https://open.spotify.com/episode/2Oegpc3WqkObwZff3MzUOq?si=GTWsC8WzSkmkYX7rx43BkA) | Corporate Responsibility, Diplomacy, Economics, History, International Relations, Labor Rights | Created as a course project for Poverty and the Environment in the US and Colombia (ENVIRON 434). This podcast episode uses recordings from interviews conducted with legal experts, historians, and journalists, etc. as well as analysis of open-sourced evidence available through the [National Security Archive of The George Washington University](https://nsarchive.gwu.edu/project/chiquita-papers). | September 2024 - December 2024 |
 
 ***
 
@@ -44,5 +52,13 @@ Bienvenidos a mi portafolio! Aqui tengo enlistados todos mis proyectos en base a
 |---|---|---|---|---|
 | <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/399bb9cd-d8b0-4af3-958a-38d8987c164d" /> [Colombia's Economy](Arreglar Link) | Data Visualization, Economics | Created as a course project for Earth Programming (Earth 133) at UM. Contains multiple graphs showing changes across time in the Colombian economy, with visuals added to show when an important FTA came into effect in the country. Created using data sourced from the World Bank, IMF, Colombian Central Bank, UN, etc. | pandas, numpy matplotlib, statistics, datetime, xlrd | March 2024 - April 2024 | 
 | 🏈 [Sleeper App Fantasy Football League Data](Arreglar Link) | Data Visualization, Fantasy Football | Leisure project. Downloads yearly transaction data for my fantasy football league from Sleeper's API to review decision-making process throughout the season. | pandas, numpy, ast, sleeper.api | December 2024 - | 
+
 ***
 
+# ArcGIS
+
+| Project Link | Area | Project Description | Completion Date |   
+|---|---|---|---|
+| 🌎 [Wetlands and Flood Risk](Arreglar Link) | Data Visualization, Environmentalism, Housing | Created as a course group project for Introduction to GIS in the Earth Sciences (Earth 408) at UM. Contains statistical and spatial analysis of the Michigan counties of Saginaw and Tuscola, including elevation derivative and optical data maps, animations of Vassar and Saginaw City, and graphical comparisons for each census tract's inland flood risk score and its corresponding population size, mean elevation, and total housing units. | January 2026 - May 2026 | 
+
+***
