@@ -17,7 +17,7 @@ Bienvenidos a mi portafolio! Aqui tengo enlistados todos mis proyectos en base a
 
 | Project Link | Area of Analysis | Project Description | Completion Date | 
 |---|---|---|---|
-| 👨‍👩‍👦 [Gentrification in the Costa Rican South Caribbean](Arreglar Link) | Data Analysis, Economics, Environmentalism, Forced Displacement, History, Interviews | Conducted 60+ interviews on affordability with residents of the South Caribbean towns of Hone Creek, Cahuita, and Puerto Viejo in Talamanca County, Costa Rica. Collaborated with local advocates to learn about threats to the cost of living in their communities. Developed quantitative and qualitative descriptions and completed final research paper under the guidance of PICS Coordinator of Independent Education Dr. Anthony Marcum. | February 2025 - December 2025 | 
+| 👨‍👩‍👦 [Gentrification in the Costa Rican South Caribbean](https://github.com/manualemartinez/Gentrification) | Data Analysis, Economics, Environmentalism, Forced Displacement, History, Interviews | Conducted 60+ interviews on affordability with residents of the South Caribbean towns of Hone Creek, Cahuita, and Puerto Viejo in Talamanca County, Costa Rica. Collaborated with local advocates to learn about threats to the cost of living in their communities. Developed quantitative and qualitative descriptions and completed final research paper under the guidance of PICS Coordinator of Independent Education Dr. Anthony Marcum. | February 2025 - December 2025 | 
 
 ***
 
